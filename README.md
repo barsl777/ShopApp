@@ -1,2 +1,0 @@
-# ShopApp
-Created with CodeSandbox
